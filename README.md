@@ -26,6 +26,6 @@ Where:
 The process continues until either the error becomes zero or the maximum number of epochs is reached.
 
 ## Output Obtained
-![]()
+![ANN_Output](ANN_output.png)
 
   
